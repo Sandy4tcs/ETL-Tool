@@ -1,0 +1,45 @@
+"RunID","ACCPAC_COST_CENTER_CODES","COST_CENTER_CODE","DATE_LAST_MODIFIED","DEPARTMENT_EXTID","DEPARTMENT_ID","FULL_NAME","HYPERION_COST_CENTER_CODES","ISINACTIVE","NAME","PARENT_ID"
+"236",,"100","2014-05-26 16:38:43",,"1","Fulfillment",,"No","Fulfillment",
+"236",,"755","2014-05-26 16:38:44",,"10","Manufacturing",,"No","Manufacturing",
+"236","3","105","2014-07-22 18:08:25",,"101","Fulfillment : Pick/Pack","1","No","Pick/Pack","1"
+"236","4","110","2014-07-22 18:08:27",,"102","Fulfillment : Warehousing","2","No","Warehousing","1"
+"236","5","115","2014-07-22 18:08:27",,"103","Fulfillment : Transportation","3","No","Transportation","1"
+"236","9","205","2014-07-22 18:08:27",,"104","Sales & Marketing : Selling","7","No","Selling","2"
+"236","8","210","2014-07-22 18:08:27",,"105","Sales & Marketing : Sales Commission","6","No","Sales Commission","2"
+"236","7","215","2014-07-22 18:08:27",,"106","Sales & Marketing : Marketing","5","No","Marketing","2"
+"236","10","305","2014-07-22 18:08:25",,"107","Finance & Accounting : Finance Management","8","No","Finance Management","3"
+"236",,"310","2014-05-26 16:42:28",,"108","Finance & Accounting : Controller",,"No","Controller","3"
+"236",,"315","2014-05-26 16:42:28",,"109","Finance & Accounting : Accounts Payable",,"No","Accounts Payable","3"
+"236",,"760","2014-05-26 16:38:44",,"11","Supply Chain",,"No","Supply Chain",
+"236",,"320","2014-05-26 16:42:28",,"110","Finance & Accounting : Accounts Receivable",,"No","Accounts Receivable","3"
+"236","13","325","2014-07-22 18:08:25",,"111","Finance & Accounting : Verification",,"No","Verification","3"
+"236","6","330","2014-07-22 18:08:25",,"112","Finance & Accounting : Credit & Collections","4","No","Credit & Collections","3"
+"236",,"335","2014-05-26 16:42:28",,"113","Finance & Accounting : Payroll",,"No","Payroll","3"
+"236",,"340","2014-05-26 16:42:28",,"114","Finance & Accounting : Audit",,"No","Audit","3"
+"236",,"345","2014-05-26 16:42:28",,"115","Finance & Accounting : Treasury",,"No","Treasury","3"
+"236",,"350","2014-05-26 16:42:28",,"116","Finance & Accounting : Financial Planning & Analysis",,"No","Financial Planning & Analysis","3"
+"236","12","405","2014-07-22 18:08:27",,"117","Information Technology : Software Development","10","No","Software Development","4"
+"236",,"410","2014-05-26 16:42:28",,"118","Information Technology : Web Development",,"No","Web Development","4"
+"236","12","415","2014-07-22 18:08:27",,"119","Information Technology : Network Infrastructure","10","No","Network Infrastructure","4"
+"236","2","800","2014-07-22 18:08:27",,"12","Management",,"No","Management",
+"236",,"505","2014-05-26 16:42:28",,"120","Product Development : Design",,"No","Design","5"
+"236",,"510","2014-05-26 16:42:29",,"121","Product Development : Photo",,"No","Photo","5"
+"236","11","515","2014-07-22 18:08:27",,"122","Product Development : Editorial","9","No","Editorial","5"
+"236",,"605","2014-05-26 16:42:29",,"123","Human Resources : HR General",,"No","HR General","6"
+"236",,"610","2014-05-26 16:42:29",,"124","Human Resources : Compensation & Benefits",,"No","Compensation & Benefits","6"
+"236",,"705","2014-05-26 16:42:29",,"125","Facilities : Communications",,"No","Communications","8"
+"236",,"710","2014-05-26 16:42:29",,"126","Facilities : Office Facilities",,"No","Office Facilities","8"
+"236",,"200","2014-05-26 16:38:43",,"2","Sales & Marketing",,"No","Sales & Marketing",
+"236",,"355","2015-04-20 12:21:50",,"201","Finance & Accounting : Regional Finance",,"No","Regional Finance","3"
+"236",,"420","2015-04-20 12:22:05",,"202","Information Technology : Regional IT",,"No","Regional IT","4"
+"236",,"220","2015-12-18 00:27:52",,"203","Sales & Marketing : Procurement",,"No","Procurement","2"
+"236",,"225","2015-12-18 00:28:21",,"204","Sales & Marketing : Corporate Communications",,"No","Corporate Communications","2"
+"236",,"250","2015-12-18 00:28:42",,"205","Customer Services",,"No","Customer Services",
+"236",,"900","2016-01-18 19:20:27",,"206","Allocation Cost Center",,"No","Allocation Cost Center",
+"236",,"300","2014-05-26 16:38:43",,"3","Finance & Accounting",,"No","Finance & Accounting",
+"236",,"400","2014-05-26 16:38:43",,"4","Information Technology",,"No","Information Technology",
+"236",,"500","2014-05-26 16:38:43",,"5","Product Development",,"No","Product Development",
+"236",,"600","2014-05-26 16:38:43",,"6","Human Resources",,"No","Human Resources",
+"236",,"650","2014-05-26 16:38:43",,"7","Legal",,"No","Legal",
+"236",,"700","2014-05-26 16:38:44",,"8","Facilities",,"No","Facilities",
+"236",,"750","2014-05-26 16:38:44",,"9","Logistics",,"No","Logistics",
